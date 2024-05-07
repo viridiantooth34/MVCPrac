@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jTBZ9tVyNEODEi6xqbvECGDk70fy/KIZsdQQhXzSG1DsPRMWYF7FjAqoaeo/eMrff+ZjtXI/NMEZKGf45rZTRQ==",
+  "dgSpecHash": "U8CJ0hVxZORF7Xefl62pAEb/ufgT4qx6MB+mbH1X0UIeiKBBp+QVPix6SZ6v790KALmXT/d0KTi0GSuda2z8vQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rickb\\source\\repos\\MVCApp\\MVCApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/subhayanbakshi/Documents/MVC_Project_Git/MVCPrac/MVCApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/subhayanbakshi/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/subhayanbakshi/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/subhayanbakshi/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.18/microsoft.netcore.app.host.osx-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

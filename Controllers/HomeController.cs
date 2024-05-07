@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MVCApp.Models;
 using System.Diagnostics;
-//first commit
+
 namespace MVCApp.Controllers
 {
     public class HomeController : Controller
