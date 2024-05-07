@@ -1,1 +1,2 @@
-Create an entity
+Create an entity- folder name 'Entities'
+in .csproj- nullable should be disabled.
